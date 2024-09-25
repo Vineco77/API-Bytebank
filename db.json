@@ -1,0 +1,156 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "3e7d5ee6-7af8-4e4a-9453-9b13325de374",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "25/09/2024",
+          "mes": "Setembro"
+        },
+        {
+          "id": "028719b0-7075-4c5d-8775-6b6d87c51116",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "25/09/2024",
+          "mes": "Setembro"
+        },
+        {
+          "id": "c2f0ea33-bd13-411e-906e-f59f46c7e7f3",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "25/09/2024",
+          "mes": "Setembro"
+        }
+      ],
+      "saldo": 3040
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Marcos Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
+    },
+    {
+      "id": "6f269532-cf9d-4033-b776-0591ef4249cd",
+      "nome": "Vinicius Ribeiro",
+      "email": "vinii.viniciusribeiro@gmail.com",
+      "senha": "Açucar77*",
+      "transacoes": [
+        {
+          "id": "1a0849a2-5f36-49f3-a9d8-d2e259b4ab2d",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "25/09/2024",
+          "mes": "Setembro"
+        },
+        {
+          "id": "0c0fcf7e-be97-4b96-bcaf-c0b1e2dbe9ff",
+          "tipoTransacao": "Transferência",
+          "valor": "1000",
+          "data": "25/09/2024",
+          "mes": "Setembro"
+        }
+      ],
+      "saldo": 500
+    },
+    {
+      "id": "65f2414b-9c08-44dd-8c5f-ac66ee1be2c0",
+      "nome": "João Melo",
+      "email": "joaomelo@gmail.com",
+      "senha": "joao890",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "defde5b3-3a39-4e6a-9fcd-eae97079b9c6",
+      "nome": "Gui Lima",
+      "email": "gui@email.com",
+      "senha": "456789",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "884b5178-0f73-4b4f-afa7-a4b5344e677a",
+      "nome": "Gui Lima",
+      "email": "gui@email.com",
+      "senha": "456789",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "de2dfe61-c930-40c9-adf1-8c8a5463b8b2",
+      "nome": "Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "789456",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "d7247e3b-dc40-491a-9128-a7a530a2c8cd",
+      "nome": "Cidronio",
+      "email": "cidronodaSilva@gmail.com",
+      "senha": "olamundo",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "34ecf076-2efd-4a0b-98dd-c5ae1d53d353",
+      "nome": "Gui Lima",
+      "email": "gui@email.com",
+      "senha": "456789",
+      "transacoes": [],
+      "saldo": 0
+    }
+  ]
+}
